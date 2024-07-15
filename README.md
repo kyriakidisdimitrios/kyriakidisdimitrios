@@ -75,6 +75,13 @@ Master's degree in Advanced Software Engineering - Expected Graduation: July 202
 *Bachelor of Science*\
 Bachelor's degree in Computer Engineering - July 2024
 
+** Open Source Contributions
 
-**Open Source Contributions**
-- Contributed as a web developer for **Browser IO Game**, focusing on developing and maintaining a popular gaming interface for Agar.io on Git. [Link](https://github.com/jimboy3100/jimboy3100.github)
+- **Contributed as a web developer for Browser IO Game**
+  - Developed and maintained a popular gaming interface for Agar.io on Git.
+  - Developed a highly acclaimed gaming interface for Agar.io hosted on GitHub, serving a vibrant community of 150,000 users over six years.
+  - Leveraged WebSocket technology with a binary protocol and canvas rendering to enhance user experience.
+  - Implemented rigorous code optimization and promptly addressed user feedback to improve functionality and performance.
+  - Achieved a peak of 800 daily active users.
+  - [Link](https://github.com/jimboy3100/jimboy3100.github)
+
