@@ -77,4 +77,4 @@ Bachelor's degree in Computer Engineering - July 2024
 
 
 **Open Source Contributions**
-- Contributed as a web developer for **Browser IO Game**, focusing on developing and maintaining a popular gaming interface for Agar.io on Git. [Link to Agar.io interface](https://github.com/jimboy3100/jimboy3100.github
+- Contributed as a web developer for **Browser IO Game**, focusing on developing and maintaining a popular gaming interface for Agar.io on Git. [Link](https://github.com/jimboy3100/jimboy3100.github)
