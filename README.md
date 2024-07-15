@@ -7,8 +7,8 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently pursuing a Master of Science in Advanced Software Engineering at University College Dublin.\
-👨🏻‍💻 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Music Production as hobbies/side hustles.\
+👨🏻‍💻 &nbsp;I'm on track for learning more about low latency languages C/C++.\
+✍️ &nbsp;In my free time, I enjoy working with WebSockets to develop real-time applications and enhance my skills in building interactive web solutions.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at [kyriakidis.demetrios@gmail.com](mailto:kyriakidis.demetrios@gmail.com)! I'll try to respond as soon as I can.
 
@@ -66,23 +66,6 @@ Experienced IT professional skilled in software engineering, web development, an
 **Skills**\
 *Java, Spring Boot, Oracle PL/SQL, C, C++, Git, React.js, JavaScript, JQuery, JSP, JSX, MySQL, Postgres, REST, Thymeleaf, Unix, WebSockets, XML, HTML5, Canvas, Socket.io.*
 
-**Work Experience**\
-**Hellenic Ministry of Public Order and Citizen Protection**\
-*Software Developer*\
-Athens Greece\
-11/2016 - 05/2024
-- Enhanced Team Collaboration utilized Git commands and version control practices to streamline code integration and project management, ensuring seamless collaboration within the development team.
-- Sustained legacy web APIs, developed with JSP (JavaServer Pages) and JSX, catering to the needs of federal offices, ensuring ongoing functionality and compatibility with evolving requirements and standards.
-- Designed and managed Oracle database schemas, leveraging PL/SQL and packages to ensure efficient data management and integrity, particularly for expenditure and staff payments, ensuring accuracy and compliance with organizational financial processes and regulations.
-- Automated payment processes using Unix scripts, ensuring timely and accurate disbursement of funds in accordance with established protocols and schedules.
-- Led the development of new projects utilizing Spring Boot for backend functionality and Thymeleaf for frontend presentation, creating robust and user-friendly web applications.
-- Provided advanced service desk support for self-developed programs, diagnosing and resolving escalated incidents from other support lines, across role-driven projects tailored to specific specifications.
-- **Standards Committee for the Competition for the Greek Police and Ministry of Citizen Protection Websites**: 
-  - Led the standards committee for the competition to revamp the Greek police website ([www.astynomia.gr](http://www.astynomia.gr)) and the citizen protection website ([www.minocp.gov.gr](http://www.minocp.gov.gr)).
-  - Collaborated with team members to define competition criteria and evaluate submissions.
-  - Ensured compliance with industry standards for website accessibility, security, and user experience.
-- Enrolled as a police officer, serving diligently by upholding law and order, and ensuring the safety and security of the community for several years until transitioning to a software development role. Selected for this transition due to strong IT skills.
-
 **Education**\
 **University College Dublin**, Dublin - Ireland\
 *Master of Science - MSc*\
@@ -92,10 +75,6 @@ Master's degree in Advanced Software Engineering - Expected Graduation: July 202
 *Bachelor of Science*\
 Bachelor's degree in Computer Engineering - July 2024
 
-**Additional Information**\
-**Language Skills**\
-- Greek: Native proficiency
-- English: Full professional proficiency
 
-**Open Source Contributions**\
-- Contributed as a web developer for **Browser IO Game**, focusing on developing and maintaining a popular gaming interface for Agar.io on Git
+**Open Source Contributions**
+- Contributed as a web developer for **Browser IO Game**, focusing on developing and maintaining a popular gaming interface for Agar.io on Git. [Link to Agar.io interface](https://github.com/jimboy3100/jimboy3100.github
