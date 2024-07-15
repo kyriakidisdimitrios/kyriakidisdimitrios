@@ -83,5 +83,5 @@ Bachelor's degree in Computer Engineering - July 2024
   - Leveraged WebSocket technology with a binary protocol and canvas rendering to enhance user experience.
   - Implemented rigorous code optimization and promptly addressed user feedback to improve functionality and performance.
   - Achieved a peak of 800 daily active users.
-  - [Link](https://github.com/jimboy3100/jimboy3100.github)
+  - [Link](https://github.com/jimboy3100/jimboy3100.github.io)
 
