@@ -64,7 +64,7 @@
 Experienced IT professional skilled in software engineering, web development, and database management. Proficient in C++, Java/Spring Boot, and PL/SQL Oracle, with advanced knowledge in Oracle packages.
 
 **Skills**\
-*Java, Spring Boot, Oracle PL/SQL, C, C++, Git, React.js, JavaScript, JQuery, JSP, JSX, MySQL, Postgres, REST, Thymeleaf, Unix, WebSockets, XML, HTML5, Canvas, Socket.io.*
+*Java, Spring Boot, Oracle PL/SQL, Scala, C#, C, C++, Git, React.js, JavaScript, JQuery, JSP, JSX, MySQL, Postgres, REST, Thymeleaf, Unix, WebSockets, XML, HTML5, Canvas, Socket.io.*
 
 **Education**\
 **University College Dublin**, Dublin - Ireland\
